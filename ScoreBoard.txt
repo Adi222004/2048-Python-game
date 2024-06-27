@@ -1,0 +1,112 @@
+
+Scores: 344
+High Scores: 2112
+Game Data: 2 0 2 0 4 8 4 0 8 64 2 2 2 8 4 2
+Scores: 2400
+High Scores: 2400
+Game Data: 4 0 2 0 2048 4 0 0 8 64 4 0 2 8 4 2
+Scores: 2580
+High Scores: 2580
+Game Data: 2 8 8 4 16 4 2048 32 2 0 64 8 0 2 0 0
+Scores: 2760
+High Scores: 2760
+Game Data: 4 16 4 2 256 4 128 4 8 32 16 8 2 4 2 4
+Scores: 1408
+High Scores: 2760
+Game Data: 8 4 16 2 4 64 128 8 16 32 16 4 2 16 4 2
+Scores: 656
+High Scores: 2760
+Game Data: 2 4 64 4 4 8 4 8 32 2 32 4 4 8 16 2
+Scores: 0
+High Scores: 2760
+Game Data: 
+Scores: 4
+High Scores: 2760
+Game Data: 0 0 0 4 0 0 0 0 2 0 0 2 0 0 0 0
+Scores: 2068
+High Scores: 2760
+Game Data: 4 0 0 0 0 0 4 2 0 0 0 2048 0 0 2 8
+Scores: 148
+High Scores: 2760
+Game Data: 0 8 4 32 2 0 0 4 0 0 0 2 0 0 0 0
+Scores: 2928
+High Scores: 2928
+Game Data: 2 16 8 2 4 2 2048 4 8 4 128 8 4 2 8 2
+Scores: 3160
+High Scores: 3160
+Game Data: 16 2 4 2 2 64 256 8 16 32 128 16 4 16 8 4
+Scores: 288
+High Scores: 3160
+Game Data: 0 0 0 0 8 4 0 2 32 32 0 0 4 4 8 0
+Scores: 1392
+High Scores: 3160
+Game Data: 2 128 4 2 4 32 16 4 2 16 64 8 16 2 16 2
+Scores: 100
+High Scores: 3160
+Game Data: 0 0 0 0 4 2 0 2 16 16 2 4 2 2 4 2
+Scores: 0
+High Scores: 3160
+Game Data: 
+Scores: 152
+High Scores: 3160
+Game Data: 32 8 2 0 8 4 0 2 4 0 0 0 2 0 0 0
+Scores: 2200
+High Scores: 3160
+Game Data: 32 8 2 2 2048 2 0 0 4 0 0 0 2 0 0 0
+Scores: 360
+High Scores: 3160
+Game Data: 0 0 0 4 2 0 64 2 8 16 4 2 0 0 4 2
+Scores: 544
+High Scores: 3160
+Game Data: 4 0 0 0 8 2 0 0 2 4 8 4 16 64 32 8
+Scores: 616
+High Scores: 3160
+Game Data: 2 4 8 2 16 32 2 8 2 16 4 16 4 64 2 2
+Scores: 0
+High Scores: 3160
+Game Data: 
+Scores: 668
+High Scores: 3160
+Game Data: 2 0 2 32 4 8 4 2 8 16 64 8 4 32 4 2
+Scores: 6648
+High Scores: 7360
+Game Data: 4 32 0 0 2048 4 2 2 8 16 256 8 4 256 4 2
+Scores: 7736
+High Scores: 7736
+Game Data: 2 8 16 2 16 64 2048 4 4 16 2 64 2 4 512 8
+Scores: 7736
+High Scores: 7736
+Game Data: 2 8 16 2 16 64 2048 4 4 16 2 64 2 4 512 8
+Scores: 3064
+High Scores: 7736
+Game Data: 4 16 4 2 32 256 32 16 8 32 128 8 2 16 8 4
+Scores: 148
+High Scores: 7736
+Game Data: 0 0 0 0 8 0 0 2 4 32 8 0 2 4 2 0
+Scores: 5320
+High Scores: 7736
+Game Data: 2 4 2 4 4 8 64 16 8 512 128 32 2 16 8 4
+Scores: 80
+High Scores: 7736
+Game Data: 2 8 4 4 4 16 0 0 8 2 0 0 0 0 0 0
+Scores: 180
+High Scores: 7736
+Game Data: 2 0 0 0 0 0 4 0 2 0 32 0 8 16 2 0
+Scores: 1420
+High Scores: 7736
+Game Data: 2 4 16 4 8 2 64 32 32 128 2 4 2 4 16 2
+Scores: 0
+High Scores: 7736
+Game Data: 
+Scores: 112
+High Scores: 7736
+Game Data: 0 4 8 4 0 16 4 8 0 0 8 2 0 0 2 4
+Scores: 2160
+High Scores: 7736
+Game Data: 4 8 4 0 2048 4 8 0 8 2 0 0 2 4 0 2
+Scores: 4208
+High Scores: 7736
+Game Data: 4 8 4 0 2048 8 0 0 8 2 2 0 2 4 2 0
+Scores: 4332
+High Scores: 7736
+Game Data: 2 2 0 0 4 4 0 0 2048 32 0 4 16 2 2 2
